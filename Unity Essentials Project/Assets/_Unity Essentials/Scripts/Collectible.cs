@@ -6,7 +6,7 @@ public class Collectible : MonoBehaviour
 {
 
     public float rotationSpeed;
-
+    public GameObject OnCollectEffect;
 
     // Start is called before the first frame update
     void Start()
@@ -21,4 +21,14 @@ public class Collectible : MonoBehaviour
     }
 
 
+    private void OnTriggerEnter(Collider other)
+    {
+        //Destroy collectible on player collision
+        Destroy(gameObject);
+
+        //Instantiate effect on collectible collection
+        Instantiate(OnCollectEffect, transform.position, transform.rotation);
+    }
+
 }
+

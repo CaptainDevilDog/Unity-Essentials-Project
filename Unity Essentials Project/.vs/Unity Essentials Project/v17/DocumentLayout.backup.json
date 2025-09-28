@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Skills\\UNITY_LEARNING\\Unity Essentials Project\\",
+  "WorkspaceRootPath": "F:\\Skills\\UNITY_LEARNING\\Unity-Essentials-Project\\Unity Essentials Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2D6C9DE-E20B-AE97-127B-4D5CD1373BDF}|Assembly-CSharp.csproj|f:\\skills\\unity_learning\\unity essentials project\\assets\\_unity essentials\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2D6C9DE-E20B-AE97-127B-4D5CD1373BDF}|Assembly-CSharp.csproj|f:\\skills\\unity_learning\\unity-essentials-project\\unity essentials project\\assets\\_unity essentials\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2D6C9DE-E20B-AE97-127B-4D5CD1373BDF}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\collectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2D6C9DE-E20B-AE97-127B-4D5CD1373BDF}|Assembly-CSharp.csproj|F:\\Skills\\UNITY_LEARNING\\Unity Essentials Project\\assets\\_unity essentials\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2D6C9DE-E20B-AE97-127B-4D5CD1373BDF}|Assembly-CSharp.csproj|F:\\Skills\\UNITY_LEARNING\\Unity-Essentials-Project\\Unity Essentials Project\\assets\\_unity essentials\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2D6C9DE-E20B-AE97-127B-4D5CD1373BDF}|Assembly-CSharp.csproj|solutionrelative:assets\\_unity essentials\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,11 +27,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Collectible.cs",
-              "DocumentMoniker": "F:\\Skills\\UNITY_LEARNING\\Unity Essentials Project\\Assets\\_Unity Essentials\\Scripts\\Collectible.cs",
+              "DocumentMoniker": "F:\\Skills\\UNITY_LEARNING\\Unity-Essentials-Project\\Unity Essentials Project\\Assets\\_Unity Essentials\\Scripts\\Collectible.cs",
               "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\Collectible.cs",
-              "ToolTip": "F:\\Skills\\UNITY_LEARNING\\Unity Essentials Project\\Assets\\_Unity Essentials\\Scripts\\Collectible.cs",
+              "ToolTip": "F:\\Skills\\UNITY_LEARNING\\Unity-Essentials-Project\\Unity Essentials Project\\Assets\\_Unity Essentials\\Scripts\\Collectible.cs",
               "RelativeToolTip": "Assets\\_Unity Essentials\\Scripts\\Collectible.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T00:39:14.884Z",
               "EditorCaption": ""
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "F:\\Skills\\UNITY_LEARNING\\Unity Essentials Project\\Assets\\_Unity Essentials\\Scripts\\PlayerController.cs",
+              "DocumentMoniker": "F:\\Skills\\UNITY_LEARNING\\Unity-Essentials-Project\\Unity Essentials Project\\Assets\\_Unity Essentials\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\_Unity Essentials\\Scripts\\PlayerController.cs",
-              "ToolTip": "F:\\Skills\\UNITY_LEARNING\\Unity Essentials Project\\Assets\\_Unity Essentials\\Scripts\\PlayerController.cs",
+              "ToolTip": "F:\\Skills\\UNITY_LEARNING\\Unity-Essentials-Project\\Unity Essentials Project\\Assets\\_Unity Essentials\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\_Unity Essentials\\Scripts\\PlayerController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAuwCAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

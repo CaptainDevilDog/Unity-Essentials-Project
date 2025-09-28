@@ -5,6 +5,7 @@ public class PlayerController : MonoBehaviour
 {
     public float speed = 5.0f; // Movement speed
     public float rotationSpeed = 120.0f; // Rotation speed
+    public float jumpForce =  5.0f; // Jump force
 
     private Rigidbody rb; // Reference to the Rigidbody component
 
@@ -17,6 +18,10 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetButtonDown("Jump"))
+        {
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+        }
 
     }
 
@@ -31,5 +36,7 @@ public class PlayerController : MonoBehaviour
         float turn = Input.GetAxis("Horizontal") * rotationSpeed * Time.fixedDeltaTime;
         Quaternion turnRotation = Quaternion.Euler(0f, turn, 0f);
         rb.MoveRotation(rb.rotation * turnRotation);
+
+
     }
 }
